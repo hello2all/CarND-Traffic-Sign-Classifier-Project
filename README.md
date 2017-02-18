@@ -8,8 +8,4 @@ Ipython notebook export: Traffic_Sign_Classifier.ipynb.html
 
 Project report: Traffic_Sign_Classifier_Report.md
 
-Ipython notebook export: Traffic_Sign_Classifier.ipynb.html
-
-Project report: Traffic_Sign_Classifier_Report.md
-
 New signs data: ./new-signs
